@@ -1,0 +1,6 @@
+D:\Pemrogaman2668\LAB 6\Polymorphism_Interface\bin\Debug\Polymorphism_Interface.exe.config
+D:\Pemrogaman2668\LAB 6\Polymorphism_Interface\bin\Debug\Polymorphism_Interface.exe
+D:\Pemrogaman2668\LAB 6\Polymorphism_Interface\bin\Debug\Polymorphism_Interface.pdb
+D:\Pemrogaman2668\LAB 6\Polymorphism_Interface\obj\Debug\Polymorphism_Interface.csproj.CoreCompileInputs.cache
+D:\Pemrogaman2668\LAB 6\Polymorphism_Interface\obj\Debug\Polymorphism_Interface.exe
+D:\Pemrogaman2668\LAB 6\Polymorphism_Interface\obj\Debug\Polymorphism_Interface.pdb
